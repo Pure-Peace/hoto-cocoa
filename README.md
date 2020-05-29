@@ -1,5 +1,7 @@
 # hoto-cocoa
 
+base on: https://github.com/Pure-Peace/vue-adaptive-template
+
 ## Project setup
 ```
 yarn install
